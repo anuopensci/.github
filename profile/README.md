@@ -13,6 +13,11 @@ In addition, it contains **workshop materials** for:
 
 - [Creative coding workshop](https://anuopensci.github.io/creative-coding/)
 
+## Slack
+
+(This is in trial and not so active!)
+
+You can join Slack for ANU Open Science [here](https://join.slack.com/t/anuopensci/signup) using your ANU email account. Please use your full name. 
 
 ## Related ANU organisation 
 
