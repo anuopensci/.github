@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a GitHub organization for Australian National University (ANU) staff and HDR students interested in **open science**. 
+This is a GitHub organization for **Australian National University** (ANU) staff and HDR students interested in **open science**. 
 
 Open science refers to a movement and set of practices aimed at making scientific research and its outputs more accessible, transparent, and collaborative. It involves making research articles, data, and software openly accessible. Key principles include sharing research data and source code, collaboration, and open educational resources. The aim is to accelerate scientific discovery, improve research quality, and increase public access to knowledge.
 
