@@ -29,3 +29,7 @@ You can join Slack for ANU Open Science [here](https://join.slack.com/t/anuopens
 
 Please contact Emi Tanaka (emi.tanaka@anu.edu.au) to be added to the member list, have related ANU organizations listed above, or for other queries. 
 
+Contributions, feedback, suggestions, etc are welcomed! 
+
+Feel free to start a discussion also at the [Discussion board](https://github.com/orgs/anuopensci/discussions). 
+
