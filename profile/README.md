@@ -2,7 +2,9 @@
 
 This is a GitHub organization for **Australian National University** (ANU) staff and HDR students interested in **open science**. 
 
-Open science refers to a movement and set of practices aimed at making scientific research and its outputs more accessible, transparent, and collaborative. It involves making research articles, data, and software openly accessible. Key principles include sharing research data and source code, collaboration, and open educational resources. The aim is to accelerate scientific discovery, improve research quality, and increase public access to knowledge.
+Open science refers to a movement and set of practices aimed at making scientific research and its outputs more accessible, transparent, and collaborative. It involves making research articles, data, and software openly accessible. Key principles include sharing research data and source code, collaboration, and open educational resources. Open science aims to accelerate scientific discovery, improve research quality, and increase public access to knowledge.
+
+🎯 **ANU Open Science** aims to share resources that promote open science and bring together people at ANU who have shared interests. While not exclusive to data and coding, a particular emphasis is placed on **_reproducible practices_** (such as Quarto, R Markdown, and Jupyter notebooks), **_open source programming languages_** (e.g. R, Python, Julia) and **_applications_** from relevant disciplines such as **_statistics_**, **_computing_** and **_data science_**. Note that ANU Open Science is not exclusive to any discipline, but rather encourages diverse participation from all walks of life and areas.
 
 It currently contains **Quarto templates** for:
 
