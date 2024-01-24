@@ -9,6 +9,7 @@ Open science refers to a movement and set of practices aimed at making scientifi
 It currently contains **Quarto templates** for:
 
 - [ANU report](https://github.com/anuopensci/quarto-anu-report)
+- [ANU thesis](https://github.com/anuopensci/quarto-anu-thesis)
 - [ANU revealjs HTML slides](https://github.com/anuopensci/quarto-anu-revealjs)
 
 In addition, it contains **workshop materials** for:
