@@ -16,6 +16,12 @@ In addition, it contains **workshop materials** for:
 
 - [Creative coding workshop](https://anuopensci.github.io/creative-coding/)
 
+## ANU internal sharepoint site 
+
+(Note that this is a work-in-progress)
+
+Find the internal site [here](https://anu365.sharepoint.com/sites/anuopenscience) (only viewable using your ANU login). You can also join the public group [here](https://outlook.office365.com/people/group/anu365.onmicrosoft.com/anuopensci). 
+
 ## Slack
 
 (This is in trial and not so active!)
